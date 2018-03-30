@@ -2,7 +2,7 @@
     <string name="app_name">Add Numbers</string>
     <string name="first_number">first</string>
     <string name="second_number">second</string>
-    <string name="eq">=</string>
+    <string name="eq">Calculate sum btn</string>
     <string name="result_is">Result = %d</string>
     <string name="second_value">Second value</string>
     <string name="first_value">First value</string>
